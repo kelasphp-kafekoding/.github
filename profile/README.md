@@ -1,11 +1,11 @@
 <table align="center">
   <tr>
-    <td><img src="image/kk.png" alt="KafeKoding Icon" width="90"/></td>
+    <td><img src="../image/kk.png" alt="KafeKoding Icon" width="90"/></td>
     <td align="center">
       <h1>Kelas PHP</h1>
       <h3>Komunitas KafeKoding</h3>
     </td>
-    <td><img src="image/php.svg" alt="PHP Icon" width="90"/></td>
+    <td><img src="../image/php.svg" alt="PHP Icon" width="90"/></td>
   </tr>
 </table>
 
